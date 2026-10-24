@@ -59,13 +59,17 @@ The repository contains the Simulink model, subsystem screenshots, and relevant 
 ## Simulation Model and Subsystems
 
 ### Complete Simulink Model
-![Complete Model](image1.png)
+![Complete Model](Model.jpg)
 
 ### Lookup Table Subsystem
-![Lookup Table Subsystem](image2.png)
+![Subsystem](Subsystem1.jpg)
 
 ### Signal Generation Subsystem
-![Signal Generation](image3.png)
+![Subsystem](Subsystem2.jpg)
 
 ### PWM Subsystem
-![PWM Subsystem](image4.png)
+![Subsystem](Subsystem3.jpg)
+
+### Result
+![Result](Result.jpg)
+
