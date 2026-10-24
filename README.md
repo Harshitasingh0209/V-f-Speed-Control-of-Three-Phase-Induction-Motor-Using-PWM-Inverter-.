@@ -61,13 +61,13 @@ The repository contains the Simulink model, subsystem screenshots, and relevant 
 ### Complete Simulink Model
 ![Complete Model](Model.jpg)
 
-### Lookup Table Subsystem
+### Subsystem
 ![Subsystem](Subsystem1.jpg)
 
-### Signal Generation Subsystem
+### Subsystem
 ![Subsystem](Subsystem2.jpg)
 
-### PWM Subsystem
+### Subsystem
 ![Subsystem](Subsystem3.jpg)
 
 ### Result
